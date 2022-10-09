@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdl29&show_icons=true&theme=dark&locale=en&layout=compact" alt="nickdl29" /></p>
-<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickdl29&show_icons=true&theme=dark&locale=en" alt="nickdl29" /></p>
-<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickdl29&theme=dark" alt="nickdl29" /></p>

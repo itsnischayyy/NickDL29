@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nischay Gupta</h1>
+<h1 align="center">Heyyy 👋, This is Nischay Gupta</h1>
 <div align="center">
 <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   

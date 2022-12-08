@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nischay29" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="www.linkedin.com/in/nischay29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nischay29" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="www.linkedin.com/in/nischay29" height="40" width="40" /></a>
 <a href="https://instagram.com/www.instagram.com/nickdl42" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="www.instagram.com/nickdl42" height="30" width="40" /></a>
 </p>
 
